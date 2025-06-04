@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(articubot_one)
+project(ugv_ai)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
